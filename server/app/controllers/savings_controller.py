@@ -5,4 +5,10 @@ from models.savings import Savings
 from flask import request, jsonify
 
 class SavingsController:
+    # Create a new saving
+    # Get one saving by ID
+    # Get all savings
+    # update saving
+    # delete saving
+
     pass
