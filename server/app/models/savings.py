@@ -1,4 +1,4 @@
-from extensions import db
+from ..extensions import db
 from marshmallow import EXCLUDE
 
 class Savings(db.Model):
